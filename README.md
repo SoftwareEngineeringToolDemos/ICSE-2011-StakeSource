@@ -6,6 +6,8 @@ The tool can be found [here](http://www.stakesource.co.uk/)
 
 This tool has been developed and presented at the ICSE 2011 conference by Dr.Soo Ling Lim, Dr.Daniela Damian, Dr.Anthony Finkelstein. Paper presented can be found [here](http://dl.acm.org/citation.cfm?id=1985983)
 
+The original video for the tool can be found [here](https://www.youtube.com/watch?v=Bnjk25M3Op4)
+
 This repository <i>is not</i> the original repository for this tool.
 
 In this repository, for StakeSource you will find:
