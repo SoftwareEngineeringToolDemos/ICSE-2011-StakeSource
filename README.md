@@ -14,6 +14,8 @@ In this repository, for StakeSource you will find:
 
 :x: Source code (not available)
 
+:x: Virtual machine containing tool (not available)
+
 :x: Executable tool (not available)
 
 This repository was constructed by [Vinay Suryadevara](https://github.com/vinay92) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
