@@ -11,12 +11,9 @@ The original video for the tool can be found [here](https://www.youtube.com/watc
 This repository <i>is not</i> the original repository for this tool.
 
 In this repository, for StakeSource you will find:
-
-:x: Source code (not available)
-
-:x: Virtual machine containing tool (not available)
-
-:x: Executable tool (not available)
+* :x: Source code (not available)
+* :x: Executable tool (not available)
+* :x: Virtual machine containing tool (not available)
 
 This repository was constructed by [Vinay Suryadevara](https://github.com/vinay92) under the supervision of [Dr. Emerson Murphy-Hill](https://github.com/CaptainEmerson).
 
